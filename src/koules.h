@@ -32,12 +32,12 @@
     #define chip
 #endif /* __amigaos4__ */
 
-#define WINWIDTH   640
-#define MAPWIDTH   640
-#define GAMEWIDTH  640
-#define WINHEIGHT  512
-#define MAPHEIGHT  460
-#define GAMEHEIGHT 460
+#define WINWIDTH   1920
+#define MAPWIDTH   1920
+#define GAMEWIDTH  1920
+#define WINHEIGHT  1080
+#define MAPHEIGHT  1028
+#define GAMEHEIGHT 1028
 
 #define S_START          0
 #define S_END            1
